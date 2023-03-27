@@ -28,7 +28,7 @@ Once built, the widget can be integrated by creating a div with the proper class
 
 **Note that the resources should only be included once in a page, even if injecting the widget several times.**
 
-Here an example integration :
+Here's an example integration :
 
 ```html
 ...
